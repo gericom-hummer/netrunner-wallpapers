@@ -1,6 +1,4 @@
-netrunnerrolling-wallpapers
+netrunner-rolling-wallpapers
 ===========================
 
-Wallpapers from Rolling releases
-
-See branches for the various different wallpapers
+Wallpapers for Netrunner Rolling
