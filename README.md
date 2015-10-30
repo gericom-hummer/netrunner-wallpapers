@@ -1,4 +1,3 @@
 netrunner-rolling-wallpapers
 ===========================
-
-Wallpapers for Netrunner Rolling
+Default Wallpapers from Netrunner Rolling.
